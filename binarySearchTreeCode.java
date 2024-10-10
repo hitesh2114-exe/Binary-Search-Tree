@@ -62,7 +62,7 @@ public class BinarySearchTree {
         return false;
     }
 
-  ----------------------------------------------------------------------------------------
+    ----------------------------------------------------------------------------------------
   
     //Recursive Binary Tree
 
@@ -142,7 +142,8 @@ public class BinarySearchTree {
         }
         return currentNode.value;
     }
-
+    
+    ----------------------------------------------------------------------------------------
 
     //Tree Traversal
     //methods of Tree traversal are :-
